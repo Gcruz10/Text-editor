@@ -62,4 +62,5 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
 ## Links
-Will be avaiable Soon
+https://gcruz10.github.io/Text-editor/
+Heroku will be avaiable Soon
